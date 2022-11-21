@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dergrossevorsitzende
-- 🤔 I'm on <a rel="me" href="https://troet.cafe/@chairman">Mastodon</a>
+- 🤔 I'm on Mastodon <a rel="me" href="https://troet.cafe/@chairman">@chairman</a>
 
 <!---
 - 👀 I’m interested in ...
